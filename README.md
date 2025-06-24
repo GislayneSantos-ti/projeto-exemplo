@@ -18,10 +18,9 @@ Como Executar
 Para executar os scripts neste repositório, siga os passos abaixo:
 
 Clone o repositório:
-
 git clone https://github.com/GislayneSantos-ti/projeto-exemplo.git
-Navegue até o diretório do projeto:
 
+Navegue até o diretório do projeto:
 cd projeto-exemplo
 Execute qualquer script Python:
 
